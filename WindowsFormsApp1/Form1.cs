@@ -93,14 +93,6 @@ namespace WindowsFormsApp1
                 pictureBox1.ImageLocation = bilgiler[bilgiler.Length - 1];
             }
             sr.Close();
-            
-
-
-
-            //fasdfasdf
-            ////asdfasdfasdf
-
-
         }
     }
 }
